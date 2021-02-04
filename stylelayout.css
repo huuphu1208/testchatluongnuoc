@@ -1,0 +1,135 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.containerph{
+    /* background-color: goldenrod; */
+    height: 100%;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: 100% !important;
+
+}
+.navbar-custom{
+    height: 20%;
+    /* background-color: gray; */
+}
+.content{
+    height: 94%;
+    /* background-color: green; */
+}
+.left{
+    /* background-color: hotpink; */
+    border-right: solid 1px  #086ad3;
+    padding: 0;
+}
+.right{
+    /* background-color: indigo; */
+    padding-left: 0px;
+}
+/* .timkiem{
+    background-color: lawngreen;
+    width: 35%;
+    height: 8%; */
+}
+/* .active:hover{
+    background-color: lightskyblue; */
+    /* font-weight: bold; */
+}
+.custom-input{
+    height: 35px;
+    border-radius: 5px;
+    border: solid 1px  lightskyblue;
+    width: 20%;
+    margin-left: 459px !important;
+}
+.custom-input:focus{
+    border: solid 2px lightskyblue;
+}
+.custom-buttom{
+    height: 35px !important;
+    border-radius: 5px;
+    border: none;
+    background-color: white;
+    border: solid 1px  #086ad3;
+}
+.custom-buttom:hover{
+    background-color: #086ad3;
+}
+.nav-tabs{
+    padding-left: 46px;
+    border-bottom: solid 1px #086ad3;
+}.tab-content{
+    padding-left: 27px;
+}
+.container{
+    padding: 0;
+}
+.bosung{
+    height: 36px;
+}
+.timkiem{
+    height: 35px;
+    border-radius: 5px;
+    border: solid 1px  lightskyblue;
+}
+.timkiem:focus{
+    border: solid 2px lightskyblue;
+}
+.tab-content{
+    overflow-x: auto;
+    height: 100%;
+    padding-left: 16px !important;
+}
+
+
+.leaflet-control{
+    border-radius: 5px;
+    border: none;
+    background-color: white;
+    border: solid 2px  #086ad3;
+}
+
+.active:hover{
+    background-color: lightskyblue;
+}
+.table{
+    color: #6a5d5d;
+    background-color: white;
+}
+.table tr:nth-of-type(odd) {
+    background-color: #f3f2f8;
+}
+.table td{
+    padding: 0.5rem;
+}
+
+
+table {
+    font-family: arial, sans-serif;
+   
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  hr{
+     margin-top: 0;
+     margin-bottom: 0;
+     border:0;
+
+  }
+
+  .leaflet-popup-content {
+      line-height: 0;
+  }
